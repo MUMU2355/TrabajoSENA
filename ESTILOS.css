@@ -1,0 +1,174 @@
+body {
+
+    background-image: url(https://assets.nflxext.com/ffe/siteui/vlv3/79fe83d4-7ef6-4181-9439-46db72599559/da576d6b-d756-4046-936f-d87a3131e3d3/CO-es-20221017-popsignuptwoweeks-perspective_alpha_website_small.jpg);      
+    background-repeat: no-repeat;
+    background-size:100% 100%;
+    font-family: arial;
+}
+
+h1 {
+    font-family: fantasy;
+    font-size: 350%;
+    color: rgb(255, 0, 0);
+    /* margin-bottom: 100px; */
+}
+
+#LOGO {
+    position: relative;
+    left: 40px;
+    bottom: 40px;
+}
+
+.contenedor{
+    background-color: rgba(1, 2, 3, 0.881);
+    width: 30%;
+    margin: 0 auto;
+    padding: 5px 5px 100px 5px;    
+    border-radius: 10px;   
+}
+
+#LOGIN {
+
+    color: white;
+    width: 100%;
+    text-align: left;
+    margin: 0 auto;   
+}
+
+p {
+    font-size: 200%;
+    margin: 4%;
+    padding: 4%;
+}
+
+#GMAIL   {
+    text-align: left;
+    color: rgb(142, 142, 142);
+    font-size: 7px;
+    background-color: rgb(51, 51, 51);
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+#CONTRASEÑA {
+    text-align: left;
+    color: rgb(142, 142, 142);
+    font-size: 7px;
+    background-color: rgb(51, 51, 51);
+    width: 80%;
+    height: 30%;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+#INICIOSESION {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    font-size: 7px;
+    background-color: rgba(255, 0, 0, 0.875);
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 5px;
+    
+}
+
+.Abajo {
+    display: flex;
+    flex-direction: row; 
+    margin-left: 9%;
+    width: 95%;
+}
+
+#checkbox   {
+    text-align: left ;
+
+}
+
+#LABEL1 {
+    color: aliceblue;
+}
+
+#NEEDHELP {
+    text-decoration: none;
+    color: white;
+    margin-left: 28%;
+}
+
+#Contenedor2 { 
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-left: 15%;
+
+}
+#PRIMERA {
+    color: rgba(172, 172, 172, 0.726);
+    font-size: 15px;
+}
+
+#NETFLIX {
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+    margin-left: 5px;
+}
+
+#REDES {
+    margin-left: 6%;
+}
+
+#INSTAGRAM {
+    color: rgba(243, 240, 240, 0.708);
+    font-size: 13px;
+}
+
+#TWITTER {
+    color: rgba(243, 240, 240, 0.708);
+    font-size: 13px;
+}
+
+#TIKTOK {
+    color: rgba(243, 240, 240, 0.708);
+    font-size: 13px;
+}
+    
+
+.footer-section {
+    background-color: rgba(1, 2, 3, 0.881);
+}
+
+div.footer-section a{
+    color: rgba(198, 198, 198, 0.749);
+    text-decoration: none;
+    background-color: rgba(1, 2, 3, 0.248);
+}
+
+.footer-section,div.footer-section li{
+    margin:  auto;
+    color: #181818;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    list-style: none;
+    text-decoration: none;
+    padding-top: 10px;
+}
+
+footer{
+    margin-top: 2%;
+    width: 100%;
+}
+.footer-seccion{
+    color: rgba(198, 198, 198, 0.749);
+    display: block;
+    margin: 2px auto;
+}
+
+#CLICKFINAL {
+    color: white;
+    text-decoration: none;
+}
+
+
+
